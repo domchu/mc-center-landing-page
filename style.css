@@ -56,6 +56,7 @@
   justify-content: center;
   padding-top: 10px;
   padding-right: 30px;
+  font-size: 2rem;
 }
 .ham {
   font-size: 22px;
@@ -67,7 +68,7 @@
   color: white;
 }
 .portal {
-  padding: 10px;
+  padding: 20px;
   background: #fff;
   color: #4cb1e7;
   border-radius: 30px;
@@ -102,6 +103,7 @@
 .h2 {
   font-size: 40px;
   color: #fff;
+  margin-left: 1rem;
 }
 .p {
   font-size: 20px;
@@ -470,13 +472,13 @@
   }
 }
 @media screen and (max-width: 380px) {
-  .menu-text{
+  .menu-text {
     padding-top: 30px;
   }
-  .menu-wrap{
+  .menu-wrap {
     padding-top: 20px;
   }
-  .menu-wrap img{
+  .menu-wrap img {
     padding-top: 80px;
   }
 }
